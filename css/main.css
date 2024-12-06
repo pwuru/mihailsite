@@ -1,0 +1,68 @@
+.btn.btn-light{
+    margin: 10pt;
+    align-self: flex-end;
+    min-width: 100pt;
+    border: 1px solid black;
+}
+
+.image1 {
+    border-radius: 5px;
+    max-width: 100%;
+    height: auto;
+}
+
+.image2 {
+    margin: 10px auto 20px;
+    margin-bottom: 0;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border: 1px solid silver;
+    box-shadow: 0 0 16px silver;
+    border-radius: 16px;
+}
+
+.text1 { 
+    text-align: center;
+    font-size: 2em;
+}
+
+.text2 {
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.col {
+    text-align: center;
+    margin: 1em;
+    flex-grow: 1;
+    flex-basis: 0;
+}
+
+.block1 {
+    flex-grow: 2;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    background-color: rgba(0, 229, 255, 0.393);
+    margin: 1em;
+    padding: 0.5em;
+    font-size: larger;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.title1 {
+    background-color: rgba(0, 229, 255, 0.393);
+    margin: 1em;
+    padding: 0.5em;
+    font-size: larger;
+    border-radius: 15px;
+    text-align: center;
+    display: inline-block;
+}
