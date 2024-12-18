@@ -66,3 +66,11 @@
     text-align: center;
     display: inline-block;
 }
+
+.section {
+    margin: 5pt;
+}
+
+.article {
+    margin: 5pt;
+}
